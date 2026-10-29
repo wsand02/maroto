@@ -1,6 +1,6 @@
 module github.com/johnfercher/maroto/v2
 
-go 1.21.1
+go 1.25.0
 
 require (
 	github.com/boombuler/barcode v1.0.1
@@ -22,7 +22,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/stretchr/objx v0.5.1 // indirect
-	golang.org/x/image v0.18.0 // indirect
-	golang.org/x/text v0.16.0 // indirect
+	golang.org/x/image v0.41.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
